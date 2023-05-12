@@ -1,3 +1,5 @@
+***My first Convolutional neural network (CNN)***
+
 Here is my attempt as of 05/01 to understand how CNNs work.
 
 In order to grasp how to create and train a CNN, I will use the [KMNIST dataset](https://github.com/rois-codh/kmnist)
