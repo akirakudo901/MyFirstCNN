@@ -1,4 +1,4 @@
-#**My first Convolutional neural network (CNN)**
+# **My first Convolutional neural network (CNN)**
 
 Here is my attempt as of 05/01 to understand how CNNs work.
 
@@ -10,7 +10,7 @@ performance
 
 Below will also be the general idea for my coding journey.
 
-##**Task definition**
+## **Task definition**
 Our goal is to create a CNN which takes in KMNIST images and classifies the label of 
 those images with some accuracy.
 
@@ -19,7 +19,7 @@ Supervised learning on images.
 - Input: 3x28x28 image.
 - Output: probability that the image is in one of the 10 categories.
 
-##**Rough flow of work**
+## **Rough flow of work**
 - Divide data into training, testing and validation sets (60 vs 20 vs 20).
 - Define a CNN model. This should be the most learning-ful part.
 - Training:
@@ -32,6 +32,6 @@ Supervised learning on images.
 7) Evaluate the ultimate capability through loss onto validation set
 To be iterated over different hyperparameters (epoch, learning rate, etc.)
 
-##**Credits:**
+## **Credits:**
 The dataset and work related is attributed as below:
 "KMNIST Dataset" (created by CODH), adapted from "Kuzushiji Dataset" (created by NIJL and others), doi:10.20676/00000341
